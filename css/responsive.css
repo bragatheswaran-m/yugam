@@ -1,0 +1,845 @@
+@media (min-width: 1441px) and (max-width: 1920px) {
+	
+}
+@media (min-width: 1281px) and (max-width: 1440px) {
+	.section-about, .section-video, .section-event, .section-schedule, .section-speakers, .section-workshop, .section-competitions, .section-proshow, .section-social-contsant, .section-contact {
+    padding: 0% 5% 10%;    
+}
+.workshop_img figcaption h2, .event_img figcaption h2 {
+    font-size: 30px;    
+}
+.single_workshop_details_container_inner h1, .single_event_details_container_inner h1, .ambassador_details_inner_container h1, .single_privacy_details_container_inner h1, .single_sponser_details_container_inner h1 {   
+    font-size: 120px;   
+}
+}
+@media (min-width: 1281px) and (max-width: 1350px) {
+.single_form_details_inner {   
+    margin-top: 1%;
+}
+.single_proshowdetails_description__container h1 {
+    font-size: 85px;   
+}
+.single_workshop_details_container_inner h1, .single_event_details_container_inner h1, .single_proshow_details_container_inner h1, .ambassador_details_inner_container h1, .single_privacy_details_container_inner h1 {   
+    font-size: 115px;   
+}
+.workshop_img figcaption h2, .event_img figcaption h2 {
+    font-size: 28px;    
+}
+	.movebg_content_left h2 {
+    font-size: 85px;
+}
+.movebg_content_left h4 {   
+    font-size: 45px;
+    }
+.movebg_content_right h1 {
+    font-size: 95px;
+}
+.movebg_content_right h3 {
+    font-size: 39px;
+}
+.typeleft h1 {  
+    font-size: 80px;   
+}	
+.yugam_content {
+    margin-top: 45%;
+    font-family: 'Barlow', sans-serif;
+    padding: 16% 20% 10% 11%;
+}
+.section-schedule h3 {
+    font-size: 35px;
+    margin-top: 30px;
+}
+.heading_style {
+    font-size: 50px;   
+}
+#container-wrapper .container {
+    padding: 1% 7%;
+}
+li.speaker_container h2 {    
+    font-size: 40px;   
+}
+.section-about, .section-video, .section-event, .section-schedule, .section-speakers, .section-workshop, .section-competitions, .section-proshow, .section-social-contsant, .section-contact {
+    padding: 0% 5% 10%;    
+}
+}
+@media (min-width: 1025px) and (max-width: 1280px) {
+.single_form_details_inner {   
+    margin-top: 5%;
+}
+.single_proshowdetails_description__container h1 {
+    font-size: 80px;   
+}
+.register {    
+    padding: 14px 20px;   
+    font-size: 20px;    
+}
+.single_workshop_details_container_inner h1, .single_event_details_container_inner h1, .single_proshow_details_container_inner h1, .ambassador_details_inner_container h1, .single_privacy_details_container_inner h1 {   
+    font-size: 110px;   
+}
+.workshop_img figcaption h2, .event_img figcaption h2 {
+    font-size: 26px;    
+}
+.single_speakers .container {
+    padding: 5% 7% !important;
+}
+	.movebg_content_left h2 {
+    font-size: 85px;
+}
+.movebg_content_left h4 {   
+    font-size: 45px;
+    }
+.movebg_content_right h1 {
+    font-size: 95px;
+}
+.movebg_content_right h3 {
+    font-size: 39px;
+}
+.typeleft h1 {  
+    font-size: 80px;   
+}	
+.yugam_content {
+    margin-top: 45%;
+    font-family: 'Barlow', sans-serif;
+    padding: 16% 20% 10% 11%;
+}
+.section-schedule h3 {
+    font-size: 35px;
+    margin-top: 30px;
+}
+.heading_style {
+    font-size: 50px;   
+}
+#container-wrapper .container {
+    padding: 1% 7%;
+}
+li.speaker_container h2 {    
+    font-size: 40px;   
+}
+.section-about, .section-video, .section-event, .section-schedule, .section-speakers, .section-workshop, .section-competitions, .section-proshow, .section-social-contsant, .section-contact {
+    padding: 0% 5% 10%;    
+}
+}
+@media (min-width: 992px) and (max-width: 1024px) {
+.sponser-colm {
+    width: 25%;
+    float: left;
+}
+.error-page img, .under-construction-page img {
+    width: 150px;
+    margin: auto;
+    padding: 5%;
+}
+.error-page h1, .under-construction-page h1 {
+    font-size: 60px;   
+}
+.error-page h5, .under-construction-page h5 {
+    font-size: 28px;   
+}
+.single_form_details_inner {   
+    margin-top: 5%;
+}
+.single_proshowdetails_description__container h1 {
+    font-size: 75px;   
+}
+.register {   
+    padding: 10px 22px;   
+    font-size: 20px;    
+}
+.register {    
+    padding: 14px 15px;   
+    font-size: 18px;    
+}
+.single_workshop_details_container, .single_event_details_container {    
+    padding: 0% 5%;
+}
+.single_workshop_details_container_inner h1, .single_event_details_container_inner h1, .single_proshow_details_container_inner h1, .ambassador_details_inner_container h1, .single_privacy_details_container_inner h1, .single_sponser_details_container_inner h1 {   
+    font-size: 100px;   
+}
+#tabs .nav-item {    
+    font-size: 34px;    
+}
+.workshop_img figcaption h2, .event_img figcaption h2 {
+    font-size: 23px;   
+}
+.single_speakers .container {
+    padding: 5% 5% !important;
+}
+.movebg_content_left h2 {
+    font-size: 75px;
+}
+.movebg_content_left h4 {    
+    font-size: 40px;   
+}
+.movebg_content_right h3 {
+    font-size: 35px;
+}
+.movebg_content_left {    
+    padding-top: 12%;
+}	
+.typeleft h1 {   
+    font-size: 80px;    
+}
+.yugam_content {
+    margin-top: 55%;
+    font-family: 'Barlow', sans-serif;
+    padding: 15% 10% 10% 11%;
+}
+.section-schedule h3 {   
+    font-size: 38px;    
+}
+.heading_style {
+    font-size: 50px;    
+}
+.section-speakers-left-inner, .section-workshop-left-inner, .section-event-left-inner, .section-proshow-left-inner, .section-contact_inner {
+    padding: 15% 3%;
+}
+li.speaker_container h2 {    
+    font-size: 40px;    
+}
+p {
+    font-size: 20px !important;   
+}
+.workshop_img figcaption h2 {
+    font-size: 22px;    
+}
+}
+@media (min-width: 768px) and (max-width: 991px) {
+.sponser-colm {
+    width: 33.3%;
+    float: left;
+}
+.error-page img, .under-construction-page img {
+    width: 150px;
+    margin: auto;
+    padding: 5%;
+}
+.error-page h1, .under-construction-page h1 {
+    font-size: 50px;   
+}
+.error-page h5, .under-construction-page h5 {
+    font-size: 25px;   
+}
+.single_form_details_inner {   
+    margin-top: 7%;
+}
+.single_proshowdetails_description__container h1 {
+    font-size: 70px;   
+}
+.register {   
+    padding: 10px 20px;   
+    font-size: 18px;    
+}
+.single_speakers_details_container_inner_main h5 {
+    font-size: 22px;
+}
+.workshop_details_inner_container .workshop_details_inner_container_detail, .event_details_inner_container .event_details_inner_container_detail, .speaker_details_inner_container .speaker_details_inner_container_detail {
+    width: 33.33%;
+    float: left;
+}
+.detail_single_event img, .detail_single_workshop img {
+    width: 30%;    
+}
+.detail_single_event, .detail_single_workshop {
+    padding: 15% 7%;    
+}
+p {
+    font-size: 18px !important;    
+}
+.detail_single_event h5, .detail_single_workshop h5 {
+    font-size: 24px;   
+}
+.single_workshop_details_container, .single_event_details_container {    
+    padding: 0% 6%;
+}
+.single_workshop_details_container_inner h1, .single_event_details_container_inner h1, .single_proshow_details_container_inner h1, .ambassador_details_inner_container h1, .single_privacy_details_container_inner h1, .single_sponser_details_container_inner h1 {   
+    font-size: 90px;   
+}
+.row{
+	margin:0px;
+}
+	#tabs .nav-item {    
+    font-size: 32px;    
+}
+.nav-tabs {
+    border: none !important;
+    padding: 5%;
+}
+.single_page_workshop_grid li, .single_page_event_grid li {
+    margin: 10px 1%;
+    max-width: 350px !important;
+    width: 48% !important;
+}
+.workshop_img figcaption h2, .event_img figcaption h2 {
+    font-size: 23px;   
+}
+.single_speakers .container {
+    padding: 5% 5% !important;
+}
+.single_page_speaker_grid li {  
+    width: 31% !important;    
+}
+.movebg_content_left h2 {
+    font-size: 70px;
+}
+.movebg_content_left h4 {    
+    font-size: 40px;      
+}
+.movebg_content_right h1 {
+    font-size: 70px;
+}
+.movebg_content_right h3 {
+    font-size: 34px;
+}
+.movebg_content_left {   
+    padding-top: 17%;
+}	
+.typeleft h1 {  
+    font-size: 70px;   
+}
+.yugam_content {
+    margin-top: 74%;
+    font-family: 'Barlow', sans-serif;
+    padding: 16% 3% 10% 4%;
+}
+.section-schedule h3 {   
+    font-size: 30px;    
+    margin-top: 20%;
+}
+li.speaker_container h2 {   
+    font-size: 32px;    
+    margin-top: -29px;    
+}
+.workshop_img figcaption h2 {
+    font-size: 26px;   
+}
+.heading_style {
+    font-size: 36px;    
+}
+.section-speakers-left-inner, .section-workshop-left-inner, .section-event-left-inner, .section-proshow-left-inner, .section-contact_inner {
+    padding: 10% 3%;
+}
+}
+@media (min-width: 601px) and (max-width: 767px) {
+.single_proshowdetails_description__container h1 {
+    font-size: 60px;   
+}
+.register {   
+    padding: 10px 18px;   
+    font-size: 17px;    
+}
+.single_speakers_details_container_inner_main h5 {
+    font-size: 20px;
+}
+.detail_single_event h5, .detail_single_workshop h5 {
+    font-size: 24px;   
+}
+.workshop_details_inner_container .workshop_details_inner_container_detail, .event_details_inner_container .event_details_inner_container_detail, .speaker_details_inner_container .speaker_details_inner_container_detail {
+    width: 33.33%;
+    float: left;
+}
+.detail_single_event img, .detail_single_workshop img {
+    width: 30%;    
+}
+.detail_single_event, .detail_single_workshop {
+    padding: 15% 2%;    
+}
+p {
+    font-size: 17px !important;    
+}
+.single_workshop_details_container, .single_event_details_container {   
+    padding: 0% 5%;
+}
+.single_workshop_details_container_inner h1, .single_event_details_container_inner h1, .single_proshow_details_container_inner h1, .ambassador_details_inner_container h1, .single_privacy_details_container_inner h1, .single_sponser_details_container_inner h1 {   
+    font-size: 80px;   
+}
+#tabs .container {
+    padding: 4% !important;
+}
+.nav-tabs {
+    border: none !important;
+    padding: 5%;
+}
+#tabs .nav-item {    
+    font-size: 30px;    
+}
+.single_page_workshop_grid li, .single_page_event_grid li {
+    margin: 10px 1%;
+    max-width: 350px !important;
+    width: 48% !important;
+}
+.workshop_img figcaption h2, .event_img figcaption h2 {
+    font-size: 23px;   
+}.container {
+    max-width: 655px;
+}
+.single_page_speaker_grid li {  
+    width: 31% !important;    
+}
+.movebg_content_left h2 {
+    font-size: 70px;
+}
+.movebg_content_right h1 {
+    font-size: 70px;
+}
+.movebg_content_right h3 {
+    font-size: 30px;
+}
+.movebg_content_left h4 {   
+    font-size: 36px;    
+}
+.movebg_content_left {   
+    padding-top: 14%;
+}
+#container-wrapper .container {
+    padding: 5% 0%;
+}
+.typeleft h1 {  
+    font-size: 60px;    
+}	
+.yugam_content {
+    margin-top: 50%;
+    font-family: 'Barlow', sans-serif;
+    padding: 16% 3% 10% 3%;
+}
+.section-schedule-left, .section-competitions-left, .section-speakers-left, .section-contact-left {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.section-schedule h3 {   
+    font-size: 30px;
+    }
+li.speaker_container h2 {    
+    font-size: 29px;    
+    margin-top: -31px;    
+}
+.section-speakers-left-inner, .section-workshop-left-inner, .section-event-left-inner, .section-proshow-left-inner, .section-contact_inner {
+    padding: 10% 3%;
+}
+}
+@media (min-width: 480px) and (max-width: 600px) {
+.single_proshowdetails_description__container h1 {
+    font-size: 50px;   
+}
+.register {   
+    padding: 10px 18px;   
+    font-size: 16px;    
+}
+.single_speakers_details_container_inner_main h5 {
+    font-size: 18px;
+}
+.detail_single_event h5, .detail_single_workshop h5 {
+    font-size: 22px;   
+}
+.workshop_details_inner_container .workshop_details_inner_container_detail, .event_details_inner_container .event_details_inner_container_detail, .speaker_details_inner_container .speaker_details_inner_container_detail {
+    width: 50%;
+    float: left;
+}
+.detail_single_event img, .detail_single_workshop img {
+    width: 30%;    
+}
+.detail_single_event, .detail_single_workshop {
+    padding: 15% 5%;    
+}
+p {
+    font-size: 16px !important;    
+}
+.single_workshop_details_container, .single_event_details_container {   
+    padding: 0% 5%;
+}
+.col-xs-6 {
+        width: 50% !important;
+        float: left !important;
+    }
+.single_workshop_details, .single_event_details {
+    background: #48337b;
+    width: 100%;
+    float: left;
+    position: relative;
+    padding: 12vh 39px;
+}
+    .single_workshop_details_container_inner h1, .single_event_details_container_inner h1, .single_proshow_details_container_inner h1, .ambassador_details_inner_container h1, .single_privacy_details_container_inner h1, .single_sponser_details_container_inner h1 {   
+    font-size: 50px;   
+}
+#tabs .nav-item:hover {   
+    font-size: 28px;    
+}
+.event_sub_category span {
+    padding: 7px 14px;  
+    font-size: 11px;
+}
+    #tabs .container {
+    padding: 6% !important;
+}
+
+.nav-tabs {
+    border: none !important;
+    padding: 5%;
+}
+#tabs .nav-item {
+    width: 50%;
+    float: left;
+    text-align: left;
+    padding: 10px 0px;
+}
+.nav-item span {   
+     width: 40px;   
+}
+.nav-item span img {
+    width: 26px;   
+}
+#tabs .nav-item {    
+    font-size: 26px;    
+}
+.single_page_workshop_grid li, .single_page_event_grid li {
+    margin: 10px 1%;
+    max-width: 100% !important;
+    width: 98% !important;
+}
+.single_workshop .container, .single_event .container {
+    padding: 5% 6% !important;
+}
+.single_page_workshop_grid li .workshop_img, .single_page_event_grid li .event_img {
+    height: 193px;
+}
+.workshop_profile{
+	margin:0px;
+}	
+
+.single_page_speaker_grid li {   
+    margin: 10px 1%;
+    max-width: 345px;
+    width: 48%;
+    height: auto;   
+}
+	
+.movebg_content_left h2 {
+    font-size: 70px;
+    margin: 0px;
+}
+.movebg_content_left h4 {
+    font-size: 50px;
+}
+.movebg_content_left {
+    width: 100%;
+    float: left;
+    text-align: left;
+}
+.movebg_content_right h1 {
+    font-size: 100px;
+}
+.movebg_content_right {
+    width: 100%;
+    float: left;
+    text-align: left;
+}
+.movebg_content_right h3 {
+    font-size: 46px;
+}	
+.movebg_inner {   
+    padding: 10%;
+}
+.typeleft h1 {   
+    font-size: 40px;    
+}
+.yugam_content {
+    margin-top: 45%;
+    font-family: 'Barlow', sans-serif;
+    padding: 10% 0% 10% 0%;
+}
+.counter h1 {
+    font-size: 40px;   
+}
+.counter span {
+    font-size: 18px;    
+}
+.counter{
+	float: left;
+    width: 50%;
+}
+.heading_style {
+    font-size: 40px;   
+}
+p {
+    font-size: 16px !important;   
+}
+.section-schedule h3 {   
+    font-size: 20px;    
+}
+.section-speakers-left-inner, .section-workshop-left-inner, .section-event-left-inner, .section-proshow-left-inner, .section-contact_inner {
+    padding: 5% 0%;
+}
+.speaker_grid li {   
+    margin: 10px 2%;
+    max-width: 345px;
+    width: 46%;
+    height: auto;    
+}
+li.speaker_container h2 {    
+    padding: 2px 0px;
+    font-size: 20px;    
+    line-height: 26px;
+    color: #fff;
+}
+.speaker_grid li figcaption {   
+    margin-top: -45%;
+}
+.owl-carousel {
+    margin-left: 0% !important;
+}
+.workshop_img figcaption h2 {
+    font-size: 25px;    
+}	
+}
+
+@media (min-width: 320px) and (max-width: 479px) {
+.single_proshowdetails_description__container h1 {
+    font-size: 40px;   
+}
+.register {   
+    padding: 10px 15px;   
+    font-size: 16px;    
+}
+.single_speakers_details_container_inner_main h5 {
+    font-size: 16px;
+}
+.detail_single_event h5, .detail_single_workshop h5 {
+    font-size: 20px;   
+}
+.workshop_details_inner_container .workshop_details_inner_container_detail, .event_details_inner_container .event_details_inner_container_detail, .speaker_details_inner_container .speaker_details_inner_container_detail {
+    width: 50%;
+    float: left;
+}
+.detail_single_event img, .detail_single_workshop img {
+    width: 30%;    
+}
+.detail_single_event, .detail_single_workshop {
+    padding: 15% 5%;    
+}
+p {
+    font-size: 14px !important;    
+}
+.single_workshop_details_container, .single_event_details_container {   
+    padding: 0% 5%;
+}
+.col-xs-6 {
+        width: 50% !important;
+        float: left !important;
+    }
+.single_workshop_details_container_inner h1, .single_event_details_container_inner h1, .single_proshow_details_container_inner h1, .ambassador_details_inner_container h1, .single_privacy_details_container_inner h1, .single_sponser_details_container_inner h1 {   
+    font-size: 40px !important;   
+}
+.event_sub_category span {
+    padding: 7px 14px;  
+    font-size: 10px;
+}
+#tabs .nav-item:hover {
+    font-size: 22px;
+}
+    #tabs .container {
+    padding: 4% !important;
+}
+.nav-tabs {
+    border: none !important;
+    padding: 5%;
+}
+.seeall-inner-container {
+    margin-top: 10%;
+}
+#tabs .nav-item {
+    width: 50%;
+    float: left;
+    text-align: left;
+    padding: 10px 0px;
+}
+#tabs .nav-item {
+    font-size: 20px;
+}
+.nav-item span img {
+    width: 20px;
+    float: left;
+}
+.nav-item span {
+    width: 26px;
+    float: left;
+    position: relative;
+}
+.single_page_workshop_grid li, .single_page_event_grid li {
+    margin: 10px 1%;    
+    width: 98% !important;    
+}
+.single_workshop .container, .single_event .container {
+    padding: 5% 6% !important;
+}
+.single_page_workshop_grid li .workshop_img, .single_page_event_grid li .event_img {
+    height: 193px;
+}
+.workshop_profile{
+	margin:0px;
+}	
+.single_page_speaker_grid li {   
+    margin: 10px 1%;
+    max-width: 345px;
+    width: 48%;
+    height: auto;   
+}
+.single_speakers .container {
+    padding: 5% 10% !important;
+}
+.movebg_content_left h2 {
+    font-size: 43px;
+    margin: 0px;
+}
+.movebg_content_left h4 {   
+    font-size: 30px;   
+}
+.movebg_content_left {
+    width: 100%;
+    float: left;
+    text-align: left;
+}
+.movebg_content_right h1 {
+    font-size: 52px;
+}
+.movebg_content_right {
+    width: 100%;
+    float: left;
+    text-align: left;
+}
+.movebg_content_right h3 {
+    font-size: 21px;
+}	
+.movebg_inner {   
+    padding: 10%;
+}
+.typeleft h1 {   
+    font-size: 40px;    
+}
+.yugam_content {
+    margin-top: 0%;
+    font-family: 'Barlow', sans-serif;
+    padding: 10% 0% 10% 0%;
+}
+.counter h1 {
+    font-size: 40px;   
+}
+.counter span {
+    font-size: 18px;    
+}
+.counter{
+	float: left;
+    width: 50%;
+}
+.heading_style {
+    font-size: 40px;   
+}
+p {
+    font-size: 16px !important;   
+}
+.section-schedule h3 {   
+    font-size: 20px;    
+}
+.section-speakers-left-inner, .section-workshop-left-inner, .section-event-left-inner, .section-proshow-left-inner, .section-contact_inner {
+    padding: 5% 0%;
+}
+.speaker_grid li {   
+    margin: 10px 2%;
+    max-width: 345px;
+    width: 46%;
+    height: auto;    
+}
+li.speaker_container h2 {    
+    padding: 2px 0px;
+    font-size: 20px;    
+    line-height: 26px;
+    color: #fff;
+}
+.speaker_grid li figcaption {   
+    margin-top: -45%;
+}
+.owl-carousel {
+    margin-left: 0% !important;
+}
+.workshop_img figcaption h2 {
+    font-size: 25px;    
+}
+
+}
+
+@media (max-width: 767px) {
+.wave {
+    background-image:
+    radial-gradient(#b9a13f 0%, transparent 0), 
+    radial-gradient(#b9a13f 20%, transparent 0);
+  background-size: 30px 30px;
+  background-position: 0 0, 15px 15px;
+}
+.bg-color {
+    background: #372660;
+    padding: 2% 0%;
+}
+.sponser-colm {
+    width: 50%;
+    float: left;
+}
+.error-page img, .under-construction-page img {
+    width: 150px;
+    margin: auto;
+    padding: 5%;
+}
+.error-page h1, .under-construction-page h1 {
+    font-size: 40px;   
+}
+.error-page h5, .under-construction-page h5 {
+    font-size: 20px;   
+}
+label {    
+    font-size: 16px;   
+}
+.single_form_details_inner_container h4 {
+    font-size: 32px;  
+}
+.single_ambassador_details_container, .privacy-container {   
+    padding: 0% 5%;
+}
+.ambassador_details_inner_container h5, .single_privacy_details_container_inner h5  {   
+    font-size: 23px;   
+}
+.single_form_details_inner {   
+    margin-top: 15%;
+}
+    .table-responsive-md{
+        overflow-x:scroll;        
+        max-width:360px;        
+    }
+    .single_speakers {   
+    padding: 10% 2%;   
+}
+    .logo {
+    width: 90px !important;
+    float: left;
+    padding: 8px 0px;
+}
+    .burger {
+    top: 0rem;
+    right: 1rem;
+    width: 43px;
+    height: 25px;
+    background: none;
+    border: none;
+    outline: none !important;
+    z-index: 10;
+    float: left;
+}
+    header ul li a {
+    font-size: 25px;
+    color: #2cc4cb;
+}
+    header ul {
+    float: right;
+    padding: 4% 0%;
+    margin: 0px;
+}
+    header {
+    background: #48337a;    
+}
+}
